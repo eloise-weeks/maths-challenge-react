@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maths-challenge-react/static/css/main.0a6d69b3.css",
+    "main.js": "/maths-challenge-react/static/js/main.29b9075d.js",
+    "static/js/453.c40581bc.chunk.js": "/maths-challenge-react/static/js/453.c40581bc.chunk.js",
+    "index.html": "/maths-challenge-react/index.html",
+    "main.0a6d69b3.css.map": "/maths-challenge-react/static/css/main.0a6d69b3.css.map",
+    "main.29b9075d.js.map": "/maths-challenge-react/static/js/main.29b9075d.js.map",
+    "453.c40581bc.chunk.js.map": "/maths-challenge-react/static/js/453.c40581bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a6d69b3.css",
+    "static/js/main.29b9075d.js"
+  ]
+}
