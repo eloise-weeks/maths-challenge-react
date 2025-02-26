@@ -1,6 +1,6 @@
 # Maths Challenge
 
-A Maths quiz app for teachers, tutors and students, based on the annual Maths Challenge competition by The UK Maths Trust.
+A Maths quiz app for teachers, tutors and students, based on the annual Maths Challenge competitions by The UK Maths Trust.
 
 Demo Link: https://eloise-weeks.github.io/maths-challenge-react/
 
@@ -8,11 +8,11 @@ Demo Link: https://eloise-weeks.github.io/maths-challenge-react/
 
 Click 'Start Quiz' to navigate to the first of five questions:
 
-![Question](src/Resources/Question.png)
+<img src="src/Resources/Question.png" alt="Question" width="400">
 
-Then answer one to reveal your final score:
+Then answer each one to reveal your final score:
 
-![Score](src/Resources/Score.png)
+<img src="src/Resources/Score.png" alt="Score" width="400">
 
 ## How It Works
 
